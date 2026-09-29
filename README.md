@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | Датасет | [Pizza Place Sales на Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales) |
-| Дашборд | [Tableau Public](https://public.tableau.com/app/profile/rut.albrekht/viz/pizzasalesanalysis_17907074648540/Dashboard1?publish=yes) |
+| Дашборд | [Tableau Public](https://public.tableau.com/app/profile/rut.albrekht/viz/pizzasalesanalysis_17907074648540/Dashboard2?publish=yes) |
 | Презентація | [presentation/index.html](presentation/index.html) · [PDF](presentation/presentation.pdf) |
 | SQL | [sql/queries.sql](sql/queries.sql) |
 
